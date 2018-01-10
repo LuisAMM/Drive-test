@@ -1,2 +1,1 @@
-# Drive-test
-Librería para DriveTest mediante GSM SIM900 y 
+Es necesario tener instalado mysql para poder correr el servidor.
